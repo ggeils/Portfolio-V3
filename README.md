@@ -5,3 +5,4 @@ This is V2 of my portfolio which inclues Project 1, and two homework assignments
 
 ## Screenshot
 ![Homepage](/images/screenshot.PNG)
+![Homepage2](/images/screenshot2.PNG)
